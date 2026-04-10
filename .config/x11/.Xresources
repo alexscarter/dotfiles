@@ -1,0 +1,58 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+Xft.dpi: 140
+
+! setting cursor
+Xcursor.theme: Bibata-Modern-Classic
+Xcursor.size: 36
+
+! window padding
+st.borderpx: 20
+
+!-- values between 0.1  - 1.0 --! 
+
+st.alpha: 1.0 
+st.font:           JetBrainsMono Nerd Font:style:medium:pixelsize=26
+
+#define base00 #313244	
+#define base01 #45475a	
+#define base02 #585b70
+#define base03 #6c7086
+#define base04 #7f849c
+#define base05 #9399b2
+#define base06 #a6adc8
+#define base07 #ccd6f4
+#define base08 #eba0ac
+#define base09 #fab387
+#define base0A #f9e2af
+#define base0B #a6e3a1
+#define base0C #89dceb
+#define base0D #89b4fa
+#define base0E #cba6f7
+#define base0F #f38ba8
+
+*foreground:  base07
+*background: #1e1e2e
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base08
+*color10:      base0B
+*color11:      base0A
+*color12:      base0D
+*color13:      base0E
+*color14:      base0C
+*color15:      base07
